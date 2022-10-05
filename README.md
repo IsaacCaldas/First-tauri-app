@@ -14,8 +14,8 @@ Steps:
 . cd [folder_name]
 
 ### Install the packages
-. npm install
+. npm install || yarn
 
 ### Run your app and be happy! :)
-. npm run tauri dev
+. npm run tauri dev || yarn tauri dev
 
